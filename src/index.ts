@@ -6,7 +6,7 @@ import helmet from "helmet";
 import cors from "cors";
 
 // Routes
-import UserRouter from "./routes/userRoutes";
+import UserRouter from "./routes/UserRoutes";
 
 class App {
   public app: Application;
